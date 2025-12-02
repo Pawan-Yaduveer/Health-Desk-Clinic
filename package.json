@@ -2,7 +2,7 @@
   "name": "health-desk-clinic",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://github.com/Pawan-Yaduveer/Health-Desk-Clinic",
+  "homepage": "https://pawan-yaduveer.github.io/Health-Desk-Clinic",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
